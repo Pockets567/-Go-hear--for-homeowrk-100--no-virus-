@@ -18,6 +18,7 @@ public class numbers
         System.out.println("PLease give me a second number");
          calvin = keyboard.nextInt();
          System.out.println("wow thank you, very cool");
+         System.out.println("this is so epic");
 
      if(icon.equals("+"))
     {
